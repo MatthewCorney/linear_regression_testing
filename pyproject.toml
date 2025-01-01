@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "linear-regression-testing"
+name = "linear_regression_testing"
 version = "0.1.0"
 description = "Python code for permutation testing of liniear regression models"
 authors = ["MatthewCorney <Matthew_corney@yahoo.co.uk>"]
