@@ -1,7 +1,7 @@
 import numpy as np
 from typing import Literal, Optional, Union
 
-from src.linear_regression_test.utils import safe_factorial, psd_inv, all_permutations, all_sign_flips
+from utils import safe_factorial, psd_inv, all_permutations, all_sign_flips
 
 
 def randomize_responses(
