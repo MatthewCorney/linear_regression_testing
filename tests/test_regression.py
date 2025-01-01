@@ -6,7 +6,6 @@ from src.linear_regression_test.regression_test import regularisation_test
 R_RESULTS = pd.read_csv("testing_data/R_results.csv")
 
 
-
 @pytest.mark.parametrize("row", R_RESULTS.to_dict('records'))
 def test_regularisation_test(row):
     """

@@ -3,6 +3,7 @@ from math import factorial
 from typing import Generator
 import numpy as np
 
+
 def safe_factorial(k: int) -> float:
     """
     Returns factorial(k) as a float, or +inf if it overflows.
