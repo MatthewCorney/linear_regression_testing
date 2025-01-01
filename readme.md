@@ -49,7 +49,7 @@ The tests are all handled by `regularisation_test`
 
 ## Example
 ```
-pip install git+https://github.com/MatthewCorney/linear_regression_test.git
+pip install git+https://github.com/MatthewCorney/linear_regression_testing.git
 ```
 
 ```
